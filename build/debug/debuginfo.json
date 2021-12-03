@@ -1,5 +1,12 @@
 [
   {
+    "artifact": "frcJava (in project RobotCode2021)",
+    "target": "roborio",
+    "debugfile": "frcJava_roborio.debugconfig",
+    "project": "RobotCode2021",
+    "language": "java"
+  },
+  {
     "artifact": "frcJava (in project yes)",
     "target": "roborio",
     "debugfile": "frcJava_roborio.debugconfig",
